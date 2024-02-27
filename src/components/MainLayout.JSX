@@ -1,6 +1,6 @@
 import React from 'react'
 
-const MAINLAYOUT = ({children}) => {
+const MainLayout = ({children}) => {
   return (
     <div>
         <header/>
@@ -10,4 +10,4 @@ const MAINLAYOUT = ({children}) => {
   )
 }
 
-export default MAINLAYOUT
+export default MainLayout

@@ -1,12 +1,12 @@
 import React from 'react'
-import Mainlayout from '../components/Mainlayout.JSX'
+import Mainlayout from '../components/MainLayout.JSX'
 
 const HomePage = () => {
   return (
     <div>
-        <Mainlayout>
+        <MainLayout>
 
-        </Mainlayout>
+        </MainLayout>
     </div>
   )
 }
